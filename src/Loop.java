@@ -12,7 +12,5 @@ public class Loop {
         }
 
         System.out.println("Média de avaliações é " + mediaAvaliacao/3);
-
-        double avaliacao = leitura.nextDouble();
     }
 }
